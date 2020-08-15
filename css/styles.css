@@ -538,12 +538,13 @@ pre code {
   max-height: 340px;
   overflow-y: scroll;
 }
-.cad /*! Need to format CAD pictures */
+.cad 
 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 85%;
+  max-width: 50%;
+  max-height: 50%;
 
 }
 .container {
